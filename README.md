@@ -1,5 +1,8 @@
 # MyFxBroker
 
+Simplified and incomplete backend for forex brocker company.
+Its just a training project - will never be finished!
+
 Projects goals: 
  - practical work with infrastructure/frameworks:
     - Kafka

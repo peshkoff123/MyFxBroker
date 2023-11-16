@@ -43,7 +43,7 @@ public class OrdersApplication {
 		//env.forEach( (key, val)-> System.out.format("%s=%s%n", key,	val));
 		//	 System.out.format("%s=%s%n", envName,	env.get(envName));
 		mongoConnect = System.getenv("mongoConnect");
-		System.out.format("mongoConnect = " + mongoConnect);
+		System.out.format("!!!  mongoConnect = " + mongoConnect);
 
 		SpringApplication.run(OrdersApplication.class, args);
 	}

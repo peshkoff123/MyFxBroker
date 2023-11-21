@@ -1,6 +1,6 @@
 # MyFxBroker
 
-Simplified and incomplete backend for forex brocker company.
+Simplified and incomplete backend for forex broker company.
 Its just a training project - will never be finished!
 
 Projects goals: 

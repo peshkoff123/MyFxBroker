@@ -13,4 +13,11 @@ Projects goals:
    
 DesignDocument: https://app.diagrams.net/?src=about#Hpeshkoff123%2FMyFxBroker%2Fmain%2FmyBroker.drawio
 
+##Design
 ![Design](./Design.png)
+
+##DataModel
+![DataModel](./DataModel.png)
+
+##AWS_Deploy:
+![AWS_Deploy](./AWS_Deploy.png)
